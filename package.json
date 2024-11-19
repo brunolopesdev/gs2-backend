@@ -1,7 +1,7 @@
 {
-  "name": "greenlife-backend",
+  "name": "gs2-backend",
   "version": "0.0.1",
-  "description": "Greenlife",
+  "description": "global solution 2 backend",
   "type": "commonjs",
   "devDependencies": {
     "@types/cors": "^2.8.14",

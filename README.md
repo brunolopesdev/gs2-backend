@@ -1,7 +1,12 @@
-# Awesome Project Build with TypeORM
+# API de Chat com TypeORM e Express
 
-Steps to run this project:
+Este é um projeto backend desenvolvido com TypeORM, Express e PostgreSQL, fornecendo uma API para gerenciamento de mensagens de chat e questões.
 
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+## 🚀 Tecnologias Utilizadas
+
+- Node.js
+- TypeScript
+- Express
+- TypeORM
+- PostgreSQL (via Supabase)
+- CORS
